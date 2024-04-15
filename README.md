@@ -4,6 +4,11 @@ Terminal Flutter Untuk menambahkan fitur terminal pada flutter app
 
 ![](https://raw.githubusercontent.com/azkadev/terminal_flutter/mainscreenshots/terminal.png)
 
+
+## Discontinue
+
+https://github.com/globalcorporation/global_studio_developer_app
+
 ## Features
 1. [x] Multi shell
 2. [x] Bisa Berbagai Platform (Android, iOS, Linux, macOS, Windows)
